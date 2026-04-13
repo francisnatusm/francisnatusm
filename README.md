@@ -16,8 +16,8 @@ This dual focus shapes everything I build: systems that are not just functional,
 
 ## Technical Skills
 
-**Languages:** Python, JavaScript, HTML, CSS  
-**ML & AI:** TensorFlow, Deep Q-Networks (DQN), Neural Networks, Binary & Multi-Class Classification  
+**Languages:** Python, C, C++, Java, JavaScript, HTML, CSS  
+**ML & AI:** TensorFlow, PyTorch, Scikit-Learn, Deep Q-Networks (DQN), Neural Networks, Binary & Multi-Class Classification  
 **Web & Deployment:** Firebase, Vercel, REST APIs, Claude API  
 **Tools & Practices:** Vibe coding, MCP (Model Context Protocol) integration, Bright Data, Git
 
