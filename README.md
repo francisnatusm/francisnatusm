@@ -29,7 +29,7 @@ This dual focus shapes everything I build: systems that are not just functional,
 A full-stack civic technology platform built for Montgomery, Alabama, US. Features four live data dashboards (Capital City Careers, Business Signals, Neighborhood Economy Map, Montgomery Pulse) and an AI-powered chatbot. Built with JavaScript, Firebase, and Bright Data MCP integration.  
 *Developed during the GenAI Academy World Wide Vibes Hackathon.*
 
-=> Demo:https://mgm-assist-946m.vercel.app
+=> Demo: https://mgm-assist-946m.vercel.app
 
 ### [DQN Lunar Lander](https://github.com/francisnatusm/DQN-Lunar-Lander)
 Deep Q-Network implementation that solves OpenAI Gym's LunarLander-v2 environment using reinforcement learning.
@@ -50,9 +50,7 @@ A conversational AI chatbot interface that answers user questions.
 ## Connect
 
 - **LinkedIn:** [Francis Natus Mugisha](https://www.linkedin.com/in/francis-natus-mugisha-66415529a)
-- **GitHub:** [github.com/francisnatusm](https://github.com/francisnatusm)
-- **Location:** Sokcho, Gangwon-do, South Korea
-
+  
 ---
 
 *"Building systems that are not just functional, but meaningful."*
