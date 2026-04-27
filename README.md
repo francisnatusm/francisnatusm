@@ -8,7 +8,7 @@ Originally from Burundi 🇧🇮, currently based in South Korea 🇰🇷, study
 
 ## About Me
 
-I am a ML & AI Engineer at the intersection of applied AI, systems thinking, and civic innovation. My work spans from deep learning experiments to full-stack platforms designed to serve communities.
+As a ML & AI Engineer at the intersection of applied AI, systems thinking, and civic innovation. My work spans from deep learning experiments to full-stack platforms designed to serve communities.
 On one side, I focus on building real-world products that leverage existing trained models through APIs — turning AI capabilities into tangible, accessible tools. On the other, I pursue a deeper understanding of what happens beneath the surface — how models learn, how they reason, and how their outputs can be interpreted and trusted.
 This dual focus shapes everything I build: systems that are not just functional, but grounded in how the technology actually works
 
