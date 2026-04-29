@@ -26,7 +26,7 @@ This dual focus shapes everything I build: systems that are not just functional,
 ## Featured Projects
 
 ### [MGM Assist](https://github.com/francisnatusm/MGM-Assist) — Smart Civic Intelligence Platform
-A full-stack civic technology platform built for Montgomery, Alabama, US. Features four live data dashboards (Capital City Careers, Business Signals, Neighborhood Economy Map, Montgomery Pulse) and an AI-powered chatbot. Built with JavaScript, Firebase, and Bright Data MCP integration.  
+A full-stack civic technology platform built for Montgomery, Alabama, US. Features four live data dashboards (Capital City Careers, Business Signals, Neighborhood Economy Map, Montgomery Pulse) and an AI-powered assistant. Built with JavaScript, Firebase, and Bright Data MCP integration.  
 *Developed during the GenAI Academy World Wide Vibes Hackathon.*
 
 => Demo: https://mgm-assist-946m.vercel.app
