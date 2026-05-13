@@ -2,7 +2,7 @@
 
 **Smart Computing Student · AI/ML Engineer · Civic Tech Builder**
 
-As a Burundian 🇧🇮, currently based in South Korea 🇰🇷, studying Smart Computing at Kyungdong University (KDU Global). I build AI-powered applications, explore machine learning systems, and develop civic technology that creates real-world impact.
+Burundian 🇧🇮, currently based in South Korea 🇰🇷, studying Smart Computing at Kyungdong University (KDU Global). I build AI-powered applications, explore machine learning systems, and develop civic technology that creates real-world impact.
 
 ---
 
