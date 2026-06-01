@@ -49,6 +49,7 @@ A conversational AI chatbot interface that answers user questions.
 
 ## Connect
 
+- **Portfolio:** [Francis Natus M.].(https://www.francisnatusm.com/)
 - **LinkedIn:** [Francis Natus Mugisha](https://www.linkedin.com/in/francis-natus-mugisha-66415529a)
   
 ---
