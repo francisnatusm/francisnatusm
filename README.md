@@ -2,57 +2,67 @@
 
 **Smart Computing Student · AI/ML Engineer · Civic Tech Builder**
 
-Burundian 🇧🇮, currently based in South Korea 🇰🇷, studying Smart Computing at Kyungdong University (KDU Global). I build AI-powered applications, explore machine learning systems, and develop civic technology that creates real-world impact.
+Burundian, based in South Korea — studying Smart Computing at Kyungdong University (KDU Global). I ship applied AI systems for real users, and dig into what happens under the hood: training, evaluation, and trust.
+
+**Portfolio:** [francisnatusm.com](https://www.francisnatusm.com/)
 
 ---
 
-## About Me
+## Focus
 
-As a ML & AI Engineer at the intersection of applied AI, systems thinking, and civic innovation. My work spans from deep learning experiments to full-stack platforms designed to serve communities.
-On one side, I focus on building real-world products that leverage existing trained models through APIs — turning AI capabilities into tangible, accessible tools. On the other, I pursue a deeper understanding of what happens beneath the surface — how models learn, how they reason, and how their outputs can be interpreted and trusted.
-This dual focus shapes everything I build: systems that are not just functional, but grounded in how the technology actually works
+Two sides of the same practice:
 
----
-
-## Technical Skills
-
-**Languages:** Python, C, C++, Java, JavaScript, HTML, CSS  
-**ML & AI:** TensorFlow, PyTorch, Scikit-Learn, Deep Q-Networks (DQN), Neural Networks, Binary & Multi-Class Classification  
-**Web & Deployment:** Firebase, Vercel, REST APIs, Claude API  
-**Tools & Practices:** Vibe coding, MCP (Model Context Protocol) integration, Bright Data, Git
+- **Ship** — full-stack platforms that put models in front of people (civic info, migrant guidance, auditable memory)
+- **Understand** — fine-tuning, RL, evaluation, and research on when models recall, update, forget, or fail safely
 
 ---
 
-## Featured Projects
+## Highlights
 
-### [MGM Assist](https://github.com/francisnatusm/MGM-Assist) — Smart Civic Intelligence Platform
-A full-stack civic technology platform built for Montgomery, Alabama, US. Features four live data dashboards (Capital City Careers, Business Signals, Neighborhood Economy Map, Montgomery Pulse) and an AI-powered assistant. Built with JavaScript, Firebase, and Bright Data MCP integration.  
-*Developed during the GenAI Academy World Wide Vibes Hackathon.*
+- **KICS Fall 2026** — first-author paper *Context and Memory Limitations in ChatGPT* presented in Hongcheon (20 Nov 2026)
+- **HAM-C** — Hierarchical Auditable Memory for ChatGPT, built from that research ([live](https://ham-c-three.vercel.app))
+- **Voice AI Builder Challenge** — ranked **#3 of 38** (DeepLearning.AI × Vocal Bridge)
+- **AWS Agent Engineer** — Future AWS Agent Engineer Nanodegree completed (Udacity × AWS)
+- **Incoming** — Software Engineer Intern – AI/ML, PM Accelerator Cohort 12 (Jan–Apr 2027)
 
-=> Demo: https://mgm-assist-946m.vercel.app
+---
 
-### [DQN Lunar Lander](https://github.com/francisnatusm/DQN-Lunar-Lander)
-Deep Q-Network implementation that solves OpenAI Gym's LunarLander-v2 environment using reinforcement learning.
+## Live platforms
 
-### [AI Chatbot](https://github.com/francisnatusm/Chatbot)
-A conversational AI chatbot interface that answers user questions.
+| Project | What it is | Demo |
+| --- | --- | --- |
+| [HAM-C](https://ham-c-three.vercel.app) | Auditable fact store for ChatGPT — recall, update, delete | Live |
+| [Sokcho Civic Hub](https://sokcho-platform.vercel.app) | Bilingual civic platform for Sokcho residents | Live |
+| [ArrivAI](https://arriv-ai-web.vercel.app) | Migrant economic integration across Korean cities | Live |
+| [MGM Assist](https://mgm-assist-946m.vercel.app) | Civic GenAI for Montgomery, Alabama (hackathon) | Live |
+| [Weather Explorer](https://weather-explorer-rouge.vercel.app) | Forecasts, maps, Firestore, Claude travel tips | Live |
+
+More on the portfolio: [Platforms](https://www.francisnatusm.com/projects/platforms) · [Models](https://www.francisnatusm.com/projects/models) · [Papers](https://www.francisnatusm.com/learning/papers)
+
+---
+
+## Skills
+
+**Languages:** Python, TypeScript, JavaScript, HTML/CSS  
+**ML & AI:** PyTorch, TensorFlow, PEFT/LoRA, RLHF/PPO, DQN, OpenAI & Claude APIs, evaluation  
+**Web:** Next.js, React, Flask, Node/Express, Firebase, Vercel  
+**Other:** MapLibre, Bright Data, Git
 
 ---
 
 ## Currently
 
-- 📚 Studying Smart Computing at Kyungdong University, South Korea
-- 🤖 Deepening expertise in ML and AI systems
-- 🛠️ Building at the intersection of AI and civic technology
+- Finishing B.S. Smart Computing at KDU Global
+- Building trustworthy applied AI — systems people can inspect and challenge
+- Preparing for the PM Accelerator AI/ML internship (Jan 2027)
 
 ---
 
 ## Connect
 
-- **Portfolio:** [Francis Natus M.](https://www.francisnatusm.com/)
+- **Portfolio:** [francisnatusm.com](https://www.francisnatusm.com/)
 - **LinkedIn:** [Francis Natus Mugisha](https://www.linkedin.com/in/francis-natus-mugisha-66415529a)
-  
+
 ---
 
-*"Building systems that are not just functional, but meaningful."*
--->
+*Building systems that are not only capable — but accountable.*
